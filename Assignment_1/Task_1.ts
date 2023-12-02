@@ -165,7 +165,7 @@ while (1) {
       console.log("\tInvalid Value enter:\n");
     }
     if (bill != 0) {
-      //   Payment_method();]
+      //   Payment_method();
       let payment_choice;
       do {
         console.log("\tPlease select the payment method:\n");
