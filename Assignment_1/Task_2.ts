@@ -10,9 +10,6 @@ console.log(`The 5 + 6 is:${add(x,y)}`);
 function even_or_odd(a:number): string{
     return a%2==0 ? 'Even':'Odd';
 }
-// function even_or_odd(num: number): string {
-    //     return num % 2 == 0 ? 'Even' : 'Odd';
-    // }
     console.log(even_or_odd(3));
     
 //? Calculate the area: 
