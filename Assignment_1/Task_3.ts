@@ -13,4 +13,3 @@ console.log(`AFter splice: ${arr}`);
 let sub_arr=arr.slice(2,5); //? Start from 2 index of arr and end at index 4 (not inclusive)
 console.log(`Subarray Created : ${sub_arr}`);
 console.log(`After slice: ${arr}`);
-export {};
